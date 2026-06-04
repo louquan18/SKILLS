@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/.claude/skills/agent-workflow-architect/**)",
+      "Edit(/.claude/skills/rag-memory-engineer/**)",
+      "Edit(/.claude/skills/test-engineer/**)",
+      "Edit(/.claude/skills/reviewer/**)",
+      "Edit(/.claude/skills/refactor-engineer/**)",
+      "Edit(/.claude/skills/novel-skill-engineer/**)"
+    ]
+  }
+}
